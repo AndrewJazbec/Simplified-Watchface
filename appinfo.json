@@ -1,0 +1,32 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "andrew.jazbec@gmail.com",
+    "longName": "Simplified",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Welbut__.ttf",
+                "name": "FONT_OSTRICH_25",
+                "trackingAdjust": 1,
+                "type": "font"
+            },
+            {
+                "file": "fonts/mypager.ttf",
+                "name": "FONT_OSTRICH_33",
+                "trackingAdjust": 2,
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Simplified",
+    "uuid": "5f6c3674-1430-44f1-8ad7-4f9ba79be961",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
